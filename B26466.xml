@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief and practical discourse of abstinence in time of Lent wherein is shewed the popular mistake and abuse of the word superstition / preached at the Cathedral of St. Patrick Dublin, on Ashwednesday March 1, 1681/2, by Peter Manby, Dean of Derry.</title>
+            <author>Manby, Peter, d. 1697.</author>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26466</idno><idno type="EEBO-CITATION">31354763</idno>
+  <idno type="VID">205924</idno>
+  <idno type="EEBO-PROQUEST">2240902938</idno>
+  
+            <idno type="STC">Wing M382</idno>
+            <idno type="OCLC">31354763</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26466)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205924)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1746:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief and practical discourse of abstinence in time of Lent wherein is shewed the popular mistake and abuse of the word superstition / preached at the Cathedral of St. Patrick Dublin, on Ashwednesday March 1, 1681/2, by Peter Manby, Dean of Derry.</title>
+                  <author>Manby, Peter, d. 1697.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joseph Ray ... for William Winter, Bookseller ... and are to be sold by the rest of the booksellers,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>M.DC.LXXXII [1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Matthew IV, 2 --  Sermons.</term>
+               <term type="topical_term">Lent --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205924:1"/>
+            <p>A BRIEF and PRACTICAL DISCOURSE OF ABSTINENCE In Time of LENT. Wherein is shewed The popular MISTAKE and ABUSE of the Word SUPERSTITION. Preached at the Cathedral of St. PATRICK DUBLIN on <hi>Ashwednesday March</hi> 1. 1681/2.</p>
+            <p>BY <hi>PETER MANBY</hi> Dean of <hi>DERRY</hi>
+            </p>
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Joseph Ray</hi> at <hi>College-Green,</hi> for <hi>William Winter</hi> Bookseller at the Sign of the Lord Primates Head in <hi>Castle-street.</hi> And are to be sold by the rest of the Book<g ref="char:EOLhyphen"/>sellers. M.DC.LXXXII.</p>
+            <pb facs="tcp:205924:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="3" facs="tcp:205924:2"/>
+            <head>A brief and practical Discourse of ABSTINENCE in time of LENT.</head>
+            <epigraph>
+               <bibl>Matth. 4. 2.</bibl>
+               <q>
+                  <p>And when he had fasted Forty Days and Forty Nights he was afterwards an hungred.</p>
+               </q>
+            </epigraph>
+            <p>NOt to trouble you with any needless enqui<g ref="char:EOLhyphen"/>ries into this mysterious <hi>Fast</hi> of our bles<g ref="char:EOLhyphen"/>sed Saviour; I shall treat of it no other<g ref="char:EOLhyphen"/>wise than as matter of example to us, and shall endeavour only these two things,</p>
+            <p>First. To evidence our obligation to the Ver<g ref="char:EOLhyphen"/>tue of <hi>Abstinence;</hi> especially at this <hi>time,</hi> so so<g ref="char:EOLhyphen"/>lemnly observ'd by the Christian Church ever since the Apostles days.</p>
+            <p>Secondly. I shall recommend it from the con<g ref="char:EOLhyphen"/>sideration of those good Fruits and Benefits that result from it.</p>
+            <p>As to the first; if Abstinence be a Christian duty, the neglect of it must be our sin; and whe<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:205924:3"/> we be obliged to it or no, we may soon be advised by the many precepts and examples both of the old and new Testament.</p>
+            <p>It hath been observed long since, that God was pleased to impose on <hi>Adam in</hi> Paradise only one Precept, and that was <hi>Abstinence; of the tree of knowledge of good and evil thou shalt not eat; for in the day that thou eatest thereof, thou shalt surely dye, Gen.</hi> 2. 17. if in the state of innocence we ought to abstain, much more in this state of our corruption.</p>
+            <p>Examples of the old Testament are not a few, as of <hi>Esther, Nehemias, Ahab,</hi> the <hi>Ninevites,</hi> of <hi>Da<g ref="char:EOLhyphen"/>vid, Psal.</hi> 69. <hi>I wept and chastened my Soul with Fast<g ref="char:EOLhyphen"/>ing.</hi> Upon these I shall not insist, lest possibly some may imagine them not so obligatory to us Christians: but I shall manifest it out of the new Testament.</p>
+            <p>Our blessed Saviour enjoyns it, <hi>Matt.</hi> 6. 17. <hi>But thou when thou fastest, anoint thy Head and wash thy Face, that thou appear not unto men to fast, but unto thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.</hi> Here he establish<g ref="char:EOLhyphen"/>es the duty in prescribing the manner how we ought to perform it; as in the same Chapter he advises concerning Prayer and Almsgiving; <hi>when thou prayest and when thou givest thine Alms, be not as the</hi>
+               <pb n="5" facs="tcp:205924:3"/>
+               <hi>Hypocrites are, &amp;c.</hi> presupposing and establishing all these Duties, while he directs us in the man<g ref="char:EOLhyphen"/>ner of them.</p>
+            <p>Likewise he confirms it <hi>Matt.</hi> 9. 15. <hi>Jesus said unto them, can the Children of the Bridechamber fast, so long as the Bridegroom is with them; but the days shall come when the Bridegroom shall be taken away from them, and then shall they fast;</hi> that is, this vertue of Fast<g ref="char:EOLhyphen"/>ing will be more seasonable after my Death, and then shall it be practised by my Followers. And accordingly 'twas verified in the practice of the Apostles, and first Christians, immediately after his Ascension, as we read <hi>Acts</hi> 13. 3.</p>
+            <p>Again, the Evangelist St. <hi>Luke</hi> records it, to the perpetual commendation of <hi>Anna</hi> the Daugh<g ref="char:EOLhyphen"/>ter of <hi>Phanuel,</hi> that she was a Widow of about Fourscore and Four years, and departed not from the Temple, but served God with Fastings and Prayers night and day. Nay our blessed Saviour recommends as a means of expelling the Devil, and consequently all naughty suggestions of the Devil, <hi>Matt.</hi> 17. 21. <hi>Howbeit this kind goeth not out but by Prayer and Fasting.</hi>
+            </p>
+            <p>Lastly, St. <hi>Paul</hi> instructing the Corinthians a<g ref="char:EOLhyphen"/>bout Conjugal Duties, 1 <hi>Cor.</hi> 7. adviseth them, <hi>Defraud not one the other, except it be for a time, that you</hi>
+               <pb n="6" facs="tcp:205924:4"/>
+               <hi>may give your selves to Fasting and Prayer:</hi> to all which I shall add, that Divines in their Bodies of Di<g ref="char:EOLhyphen"/>vinity do all teach the necessity of this Duty, even our Dissenters themselves, though they find fault with it in us, can yet appoint their own times of Abstinence, and impose them too, when they think good.</p>
+            <p>The Application of this Doctrine concerns two sorts of Persons, First the ignorant who have need to be inform'd; Secondly such as confess it their duty, but never practise it. The former I hope may see their mistake of supposing it ra<g ref="char:EOLhyphen"/>ther a Popish than Christian duty. The later I wish may remember our Saviours words <hi>Luke</hi> 12. 47. <hi>The Servant which knew his Lords will, and did it not, shall be beaten with many stripes.</hi>
+            </p>
+            <p>And now I consider that it is our Duty espe<g ref="char:EOLhyphen"/>cially at this <hi>time,</hi> so universally observed by the Christian Church ever since the Apostles days.</p>
+            <p>Whosoever shall desire to inform himself con<g ref="char:EOLhyphen"/>cerning the original of the Quadragesimal <hi>Fast,</hi> will find the chief reason to have been the Imita<g ref="char:EOLhyphen"/>tion of our blessed Saviours Example: though other reasons be not wanting;</p>
+            <p>As the preparing our selves by a solemn Absti<g ref="char:EOLhyphen"/>nence of Forty days for the Reception of the
+<pb n="7" facs="tcp:205924:4"/> blessed Sacrament at <hi>Easter;</hi> whereunto the Chri<g ref="char:EOLhyphen"/>stians of all ages (excepting those of phanatical Humours) have thought themselves obliged; which reason is given by St. <hi>Hierom</hi> in his Com<g ref="char:EOLhyphen"/>ment on <hi>Matt.</hi> 5. The want of a pious disposition and preparation before our religious duties of Prayer and receiving the holy Sacrament, is per<g ref="char:EOLhyphen"/>haps the reason that we are so little the better for them.</p>
+            <p>Another reason is, that the quadragesimal season is much about a tenth part of the year. That God hath commanded the Tenth of all things to be de<g ref="char:EOLhyphen"/>voted to his Service; that while nine parts are allowed to our selves, we ought to dedicate a <hi>Tenth</hi> of our days to some more than ordinary re<g ref="char:EOLhyphen"/>collection of our selves and repentance towards God.</p>
+            <p>But some will needs refer the Institution of Lent to politique reasons only: though it be too antient to have been instituted upon any such ac<g ref="char:EOLhyphen"/>count. The primitive Church doubtless intend<g ref="char:EOLhyphen"/>ed Devotion, not Policy, in her solemnities of it: and the same our Church intends now. To ob<g ref="char:EOLhyphen"/>serve a time of Abstinence upon prudential or politick reasons only, were no fasting for Religi<g ref="char:EOLhyphen"/>on: and it is to be remembred, that the Abet<g ref="char:EOLhyphen"/>tors
+<pb n="8" facs="tcp:205924:5"/> of this <hi>prudential</hi> Opinion are not very famous for any Religion.</p>
+            <p>That it was first observed in commemoration of our blessed Saviours Forty days Fast, St. <hi>Au<g ref="char:EOLhyphen"/>stin</hi> affirms; <hi>Quadragesima authoritatem habet ex Evan<g ref="char:EOLhyphen"/>gelio, quia totidem diebus Dominus jejunavit.</hi> And St. <hi>Hierom</hi> writing on the 58th. Chapter of <hi>Isaiah</hi> saith, <hi>Dominus quadraginta diebus in solitudine jejuna<g ref="char:EOLhyphen"/>vit, ut nobis solennes jejuniorum dies relinqueret.</hi> Our blessed Saviour fasted Forty days in the Wilder<g ref="char:EOLhyphen"/>ness, that he might leave us a solemn opportunity of fasting. And long before St. <hi>Hieroms</hi> days, <hi>Ig<g ref="char:EOLhyphen"/>natius</hi> the Disciple of S. <hi>John</hi> hath left his Opinion, that this time is to be observed by Christians in memory of our Saviours Forty days Abstinence. And were it not very antient, our Church could not have thought her self obliged to the obser<g ref="char:EOLhyphen"/>vance of it.</p>
+            <p>After its being thus attested by the antient Fa<g ref="char:EOLhyphen"/>thers, we find it thus censured by Mr. <hi>Calvin</hi> in the 4th. Book of his <hi>Institutions; Mera stultitia fuit je<g ref="char:EOLhyphen"/>junium quadragesimale ad Christi imitationem instituere.</hi> It was meer Folly and Superstition (saith he) to pretend to observe <hi>Lent</hi> in imitation of Christs Forty days Fast; and he gives this reason for it; Christ abstained Forty days, not that he might
+<pb n="9" facs="tcp:205924:5"/> leave us an example of the like Fasting, which was impossible for us; but that he might mani<g ref="char:EOLhyphen"/>fest himself a <hi>person</hi> above the common condition of mortals.</p>
+            <p>This <hi>Opinion</hi> and this <hi>Reason</hi> he thinks fit to ad<g ref="char:EOLhyphen"/>vance against the sence of the antient <hi>Church;</hi> and let us consider it a little, it being all that the Ad<g ref="char:EOLhyphen"/>versary has to say in this matter.</p>
+            <p>And first, it cannot be denied that our Saviours Forty days Fast and Temptation in the Wilder<g ref="char:EOLhyphen"/>ness was a part of that humiliation and those suffe<g ref="char:EOLhyphen"/>rings he underwent for our sins. He suffered for us (saith St. <hi>Peter</hi>) leaving us an example that we might follow his steps. He was not only our Re<g ref="char:EOLhyphen"/>deemer by his Sufferings, but our Teacher by his Example; and if it be answered, that his Forty days Fast was too miraculous to be exemplary to us; we may soon satisfie our selves, that the rea<g ref="char:EOLhyphen"/>son of all Christs Miracles was to be beneficial to mankind; and what benefit could be intended or reason assigned for that miracle of Abstinence, unless this of being <hi>exemplary</hi> to us? to amuse the world with <hi>wonders</hi> was not the design of our blessed Saviour, but to do good.</p>
+            <p>Christ abstained as became him; we must imi<g ref="char:EOLhyphen"/>tate him according to the strength of our Frailty.
+<pb n="10" facs="tcp:205924:6"/> We follow his steps whilst we undergo what we can: we cannot sustain those extremities that he did; but to do what we can is ever acceptable to him.</p>
+            <p>Nay further, were this Abstinence only a <hi>Free-will Offering</hi> of the Church, the <hi>Psalmist</hi> will encou<g ref="char:EOLhyphen"/>rage it <hi>Psal.</hi> 110. 3. <hi>In the day of thy power shall the people offer thee free-will offerings.</hi> Under the Law (we know) the more voluntary the Devotion, the more accepted it was; provided there were no repugnancy to any Divine Precept. And it is so now under the Gospel; as may appear by this one observeable instance <hi>Matt.</hi> 26. 12. <hi>There came unto our Saviour a Woman having an Alabaster box of Ointment, who poured it on his Head as he sat at meat; which when the Disciples saw, they had indignation, say<g ref="char:EOLhyphen"/>ing, to what purpose is all this wast? But</hi> Jesus <hi>said, why trouble ye the Woman? for she hath wrought a good work upon me: verily I say unto you, wheresoever the Gospel shall be preached in the whole world, this deed shall be told for a memorial of her.</hi> That Free-will Offering which the Disciples rejected as an impertinency or <hi>Superstition</hi> in this Woman, our blessed Saviour commends as an expression of Devotion. Let us beware of that popular impiety of calling every thing <hi>Superstition</hi> that we do not understand.</p>
+            <pb n="11" facs="tcp:205924:6"/>
+            <p>And here perhaps it may not be impertinent to digress a few words concerning <hi>Superstition;</hi> which is a word, about the true meaning whereof the <hi>people</hi> are generally very ignorant, or very con<g ref="char:EOLhyphen"/>fus'd.</p>
+            <p>Let us therefore consider 1. what is meant by it in Scripture. 2. What it signified among the an<g ref="char:EOLhyphen"/>tient <hi>Pagans.</hi> 3. How 'tis taken at this day a<g ref="char:EOLhyphen"/>mong Christians.</p>
+            <p>First in Scripture meaning, the word <gap reason="foreign" resp="#oxf" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which we render Superstition, signifies supream Worship given to <hi>Daemons</hi> or <hi>Pagan</hi> Idols: for in<g ref="char:EOLhyphen"/>stance, <hi>I hate those that hold of superstitious Vanities</hi> (saith the Psalmist,) <hi>but my trust is in the Lord</hi> Psal. 31. where by superstitious Vanities he means the <hi>Pagan</hi> Deities, which in the old Prophets are u<g ref="char:EOLhyphen"/>sually stiled <hi>Vanities; my people have burnt Incense to Vanity,</hi> saith the Prophet <hi>Jeremy,</hi> 18. 15. Again Saint <hi>Paul, Acts</hi> 17. preaching to the <hi>Athenians,</hi> saith, <hi>Ye men of</hi> Athens, <hi>I perceive that in all things ye are too superstitious;</hi> so our <hi>English</hi> Translation reads, but in the <hi>Greek</hi> 'tis otherwise: Ye men of <hi>Athens</hi> I perceive ye are very much addicted to the Reli<g ref="char:EOLhyphen"/>gion of Daemons or false Gods. That this was his meaning, appears evidently by the 16th. Vers. of that Chapter; the words are these, <hi>While he</hi>
+               <pb n="12" facs="tcp:205924:7"/>
+               <hi>tarried at</hi> Athens, <hi>his spirit was stirred up in him, when he saw the City wholly given to Idolatry.</hi>
+            </p>
+            <p>The word <gap reason="foreign" resp="#oxf" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Superstition is not often met with in Scripture, and among those few places there are none where it signifies ought but either Religion in general, or else the Religion of <hi>Dae<g ref="char:EOLhyphen"/>mons,</hi> or men deified after their death; such were <hi>Saturn, Jupiter, Mars, Mercury,</hi> &amp;c.</p>
+            <p>2. Among the antient <hi>Pagans</hi> 'twas a word (as to them) of no ill meaning; but us'd by the most (except Atheists and Epicureans) to signifie <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> in a good sence. It was the most common word to express <hi>Religion</hi> in general, as the learned Dr. <hi>Hammond</hi> demonstrates by many instances in his <hi>Tract of Superstition,</hi> to which I refer the Reader: but the <hi>Epicureans</hi> by way of contempt were wont to term it Superstition, to fancy any Rewards or Punishments after this life; and Atheists would call it Superstition to be afraid of invisible pow<g ref="char:EOLhyphen"/>ers, or to think that in nature there is any thing just or unjust but only by Law or Custom.</p>
+            <p>3. At this day among <hi>Christians</hi> 'tis thrown as a word of reproach or defamation on every Devo<g ref="char:EOLhyphen"/>tion we don't fancy. Thus to observe any special Devotion or Abstinence at this <hi>time</hi> is impiously call'd <hi>Superstition:</hi> to bow at the blessed name of
+<pb n="13" facs="tcp:205924:7"/>
+               <hi>Jesus,</hi> to kneel at the holy Sacrament of Christs Body and Blood, to bestow any <hi>Ornament</hi> on the House of God, or observe any external reverence there, is atheistically call'd Superstition. Thus Dissenters will needs pervert this <hi>word</hi> from its ori<g ref="char:EOLhyphen"/>ginal and scriptural meaning. To worship the true God by a <hi>Liturgy</hi> must be Superstition; tho there be scarcely a Sentence in our Morning or Evening <hi>Service,</hi> that is not <hi>verbatim</hi> out of the holy Scrip<g ref="char:EOLhyphen"/>tures; which no man can say of their <hi>Prayers.</hi>
+            </p>
+            <p>Again, to swear by a Book, to baptise Infants, or sing <hi>Psalms</hi> must be Superstition, say the Millena<g ref="char:EOLhyphen"/>ries, Anabaptists and Quakers; persons no less so<g ref="char:EOLhyphen"/>ber in their Morals and conversant in the Scrip<g ref="char:EOLhyphen"/>tures than any Presbyterians whatsoever.</p>
+            <p>O but to worship the true God in a false manner, is not that Superstition? I answer, what do they mean by false manner? They mean doubtless all other ways except their own; and that is a fond conceit. Good God! where do the Scriptures tell us, that to pray by the <hi>spirit</hi> is to pray <hi>extempore?</hi> do they not tell us, that to pray by the Spirit is to pray in an unknown tongue? <hi>I will pray by the spirit</hi> (saith St. <hi>Paul) and I will pray with understanding also; if I pray in an unknown tongue my Spirit prayeth, but my Un<g ref="char:EOLhyphen"/>derstanding is unfruitful.</hi> 1 Cor. 14. 15.</p>
+            <pb n="14" facs="tcp:205924:8"/>
+            <p>But humane <hi>Inventions</hi> (say they) are prohibited in Gods service; not considering in the mean while, that all their own Prayers and manner of Worship are in the opinion of all Christians (ex<g ref="char:EOLhyphen"/>cept themselves) purely the issues of their own invention: For truly their <hi>extempore</hi> Prayers (which they call serving of God in spirit and in truth) are either humane Inventions, or divine In<g ref="char:EOLhyphen"/>spirations, or a mixture of both: if they are hu<g ref="char:EOLhyphen"/>mane Inventions, then are they no better in their own nature, than the <hi>Liturgy</hi> of our Church, which they reject upon that account: if they are divine Inspirations, then are they as much the Word of God as any of <hi>Davids</hi> Psalms, or as any part of the Bible; and being written from their mouths may become Canonical Scripture: if they are a com<g ref="char:EOLhyphen"/>pound of both, still they mingle their own In<g ref="char:EOLhyphen"/>ventions with Gods Worship. I wish they would do us or themselves the kindness to answer this.</p>
+            <p>What intelligent unprejudiced man sees not, that in our Churches Litany, nay in one of her Collects there is more of <hi>Substance</hi> and Instructi<g ref="char:EOLhyphen"/>on than in a million of their <hi>extempore</hi> effusi<g ref="char:EOLhyphen"/>ons?</p>
+            <p>I conclude that Superstition (as some <hi>people</hi> misunderstand and misapply the Word) is so far
+<pb n="15" facs="tcp:205924:8"/> from being a Sin, that it may be highly pleasing and acceptable to God.</p>
+            <p>It is time that I proceed to the second <hi>Head,</hi> namely, what are those good Fruits and Benefits that result from the Vertue of <hi>Abstinence.</hi>
+            </p>
+            <p>And the first is a subduing the extravagancies of our <hi>Flesh.</hi> We may as well hope to be cur'd of a Dropsie by continual drinking, as expect to moderate the Fire of Lusts without substracting the Fewel. They that live after the flesh shall dye, is the frequent voice of Scripture; and every good man will take notice of it; but it is not possible for the man to live otherwise; who takes all opportunities to inflame himself by Drink or idle Company. Beasts are not cur'd of their ill Conditions by being pamper'd.</p>
+            <p>Whilst we can deny nothing to our Appetites, no marvel if we suffer those inconveniencies that render our Lives more unhappy than that of the Brutes. Refraining our selves is but necessary to the Happiness of this present life, as well as to that of a better. <hi>Abstinence</hi> hath been the practice of good men in all Ages for the defeating of Temptations and preventing the Vices of de<g ref="char:EOLhyphen"/>prav'd nature.</p>
+            <p>But some may say, I have tryed, but am not
+<pb n="16" facs="tcp:205924:9"/> so happy as to find any such effect of it; I answer, it can hardly be, if thou art in earnest; joyning thy Prayers and sincere endeavours, not being a <hi>traytor</hi> to thy self.</p>
+            <p>A second Advantage is, to assist us in our Pray<g ref="char:EOLhyphen"/>ers by substracting from the nourishment of those <hi>desires</hi> that would otherwise trouble our good thoughts: especially it will suggest to us this re<g ref="char:EOLhyphen"/>flection, what crazy and tottering <hi>Tabernacles</hi> our Bodies are, unless upheld every day by the sup<g ref="char:EOLhyphen"/>plies of Food and Nourishment. Indeed our trouble and sorrow for our sins can scarce be real without it. <hi>Jejuna quia peccasti; Fast</hi> because thou hast sinned, in a pious revenge upon thy self, in a real abhorrence of thy sin.</p>
+            <p>If the Heart be unfeignedly discontented for sin, it will assuredly give some outward evidence of it by way of <hi>pennance:</hi> and he that never ab<g ref="char:EOLhyphen"/>stians at all, may justly suspect the reality of his Repentance.</p>
+            <p>3. Through the merits of <hi>Christ,</hi> it is a means to conciliate the Favour of God and Forgiveness of our sins. Upon the preaching of <hi>Jonas</hi> the peo<g ref="char:EOLhyphen"/>ple of <hi>Niniveh</hi> believed and proclaimed a <hi>Fast;</hi> and the King of <hi>Nineveh</hi> said, <hi>Let every one turn from his evil way, and from the violence that is in their</hi>
+               <pb n="17" facs="tcp:205924:9"/>
+               <hi>hands,</hi> Jonah 3. 7. and then follows (vers. 10.) <hi>God saw their works and repented of the evil that he had said he would do unto them.</hi>
+            </p>
+            <p>Nay God was pleased to take so much notice of <hi>Ahabs</hi> hypocritical Fast, as to spare his Kingdom until the Reign of his Successor. <hi>And it came to pass that</hi> Ahab <hi>fasted and lay in Sackcloth, and the Word of the Lord came to</hi> Elijah <hi>the Tishbite, saying, seest thou how</hi> Ahab <hi>humbleth himself before me; I will not bring the evil in his days, but in his Sons days I will bring the evil.</hi>
+            </p>
+            <p>To conclude this matter, with a few particular Directions.</p>
+            <p>When we <hi>fast,</hi> let us do it cheerfully, not Pha<g ref="char:EOLhyphen"/>risaically with a sad coutenance: let us do it with respect unto God and not unto men; knowing that of him we shall receive <hi>the Reward of the In<g ref="char:EOLhyphen"/>heritance.</hi>
+            </p>
+            <p>Let every Christian limit himself according to his strength, abstaining between the two extreams of too much Indulgence and too much Severity; giving to the poor and distressed people the quan<g ref="char:EOLhyphen"/>tity or value of that Diet from which he abstains.</p>
+            <p>I know it is objected by some, that the <hi>Clergy</hi> themselves are not exemplary to us in this matter. But although this were true, it is certainly no ex<g ref="char:EOLhyphen"/>cuse
+<pb n="18" facs="tcp:205924:10"/> for you or me: 'tis as much as to say, thou wilt not go to Heaven, because some <hi>Clergymen</hi> have no mind to go there.</p>
+            <p>The Prophet <hi>Isaiah</hi> instructs us how we ought to <hi>fast,</hi> in reproving the manner of the Jewish Ab<g ref="char:EOLhyphen"/>stinence, <hi>Isaiah</hi> 58. 3, 4. is it such a Fast that I have chosen; is it to bow down the Head as a Bulrush, and to spread Sackcloth and Ashes un<g ref="char:EOLhyphen"/>der him? wilt thou call this a Fast and an accep<g ref="char:EOLhyphen"/>table day to the Lord? is not this the Fast that I have chosen? to undo the heavy burdens, to let the oppressed go free? is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy House; when thou seest the naked that thou cloth him, and that thou hide not thy self from thine own flesh.</p>
+            <p>To this Abstinence (as is meet and requisite at this time) let us joyn an honest confession of our sins; which our Church prescribes to be done by the rule of Gods <hi>Commandments.</hi>
+            </p>
+            <p>Let us therefore reflect upon our past lives, and charge our <hi>Memories,</hi> so officious in other things, to recollect our sins with their aggravating cir<g ref="char:EOLhyphen"/>cumstances; as first against the first <hi>Table.</hi>
+            </p>
+            <p>
+               <hi>I am the Lord thy God, thou shalt have none other Gods before me.</hi>
+            </p>
+            <pb n="19" facs="tcp:205924:10"/>
+            <p>Thou hast not in obedience to this Precept lo<g ref="char:EOLhyphen"/>ved God above all things; but hast loved thy self and thy own wretched <hi>Interest</hi> above all things. Nay, thou hast never regarded any man, further than thou thought'st him in some measure capable to serve or to hurt thee in that point. Thou hast serv'd God more out of fear or respect to thy Re<g ref="char:EOLhyphen"/>putation than love or gratitude to him. Thou hast not in thy adversity put thy trust in God; and in thy prosperity hast too much presumed on his Goodness.</p>
+            <p>
+               <hi>The second Commandment, Thou shalt not make to thy self any graven Image,</hi> &amp;c.</p>
+            <p>Thou hast hated the Idolatry of bowing before a <hi>Crucifix</hi> or Picture of thy Saviour; but not that of sacrifising all to thy worldly Interest, thy Plea<g ref="char:EOLhyphen"/>sures or Avarice, which the Scripture calls Ido<g ref="char:EOLhyphen"/>latry, <hi>Coll.</hi> 3. 5.</p>
+            <p>
+               <hi>The third, Thou shalt not take the Name of the Lord thy God in vain,</hi> &amp;c.</p>
+            <p>Thou hast taken his Name in vain by perjury or idle swearing: thou hast broken thy Vows and Promises which thou madest to God.</p>
+            <p>
+               <hi>The fourth, Remember that thou keep holy the Sabbath day,</hi> &amp;c.</p>
+            <p>Thou hast not kept the Lords day and other
+<pb n="20" facs="tcp:205924:11"/> holy days by giving attendance to his publique Service, or behaving thy self reverently in the House of God.</p>
+            <p>Also against the second <hi>Table</hi> thou hast sinned, not so loving thy Neighbour as thy self, that thou hast seldom thought of doing to others as thou wouldst be done unto.</p>
+            <p>
+               <hi>Honour thy Father and thy Mother,</hi> &amp;c.</p>
+            <p>Thou hast not been so obedient or serviceable to thy natural Parents as thou oughtst to have been; and against thy civil Parents, the <hi>King</hi> and Royal Family, thou hast been guilty of seditious words and thought; medling too much with them that are given to <hi>change.</hi> As for thy <hi>spiritual</hi> Parents, to say nothing of personal distasts, which are hard to be avoided, where the <hi>Superior</hi> is a proud or insolent or peevish person; proud to his Inferiors, <hi>timerous</hi> and obliging towards his E<g ref="char:EOLhyphen"/>quals and Superiors: but thou hast maliciously bent thy self against the whole <hi>Order,</hi> for the in<g ref="char:EOLhyphen"/>troducing of Confusion and <hi>Anarchy</hi> into the Church.</p>
+            <p>Likewise against the <hi>Sixth Commandment</hi> thou hast offended many ways.</p>
+            <p>Thou hast murdered thy Adversary with thy Heart and Tongue, though not with thy Hands:
+<pb n="21" facs="tcp:205924:11"/> or thou hast dealt unmercifully with thy Neigh<g ref="char:EOLhyphen"/>bour, not relieving his necessities when it was in thy power to do it. Thou hast rejoyced at other mens misfortunes.</p>
+            <p>
+               <hi>The seventh Commandment, Thou shalt not commit Adultery.</hi>
+            </p>
+            <p>Thou hast made it thy business to corrupt thy Neighbours Wife or thy Neighbours Husband.</p>
+            <p>
+               <hi>The eighth, Thou shalt not steal.</hi>
+            </p>
+            <p>Thou hast purloined thy Neighbours Goods, which thou hast never yet restored; or circum<g ref="char:EOLhyphen"/>vented him in his just pretences.</p>
+            <p>
+               <hi>The ninth, Thou shalt not bear false witness against thy Neighbour.</hi>
+            </p>
+            <p>Thou hast often accused him out of envy, ha<g ref="char:EOLhyphen"/>tred or malice: thou hast loved to speak all words that might do him hurt: thou hast been too apt to receive and propagate ill Reports of him, not knowing whether such Reports were true or false.</p>
+            <p>
+               <hi>The tenth, Thou shalt not covet thy Neighbours House, thou shalt not covet thy Neighbours Wife,</hi> &amp;c.</p>
+            <p>Thou hast entertained dishonest and unchast thoughts, running into the occasions thereof; as Drunkenness, Intemperance, idle Company, <hi>&amp;c.</hi>
+               <pb n="22" facs="tcp:205924:12"/> Thou hast coveted thy Neighbors Goods, Means or Fortune, and envied his Reputation: in all these things thou hast flattered thy felf, not re<g ref="char:EOLhyphen"/>garding the All-seeing eye of God, so thou migh<g ref="char:EOLhyphen"/>test escape the notice of men.</p>
+            <p>Thus if we confess our sins, God is faithful and just to forgive us our sins; but the <hi>Scripture</hi> adds another necessary <hi>word, he that confesses and forsakes his sins shall find mercy,</hi> Prov. 28. plainly admonish<g ref="char:EOLhyphen"/>ing us of the vast mistake of that Confession or Sorrow for sin, that never produces any alterati<g ref="char:EOLhyphen"/>on of the <hi>Man,</hi> nor <hi>Fruits</hi> meet for Repentance.</p>
+            <p>And thus I do not reckon <hi>Abstinence</hi> as any ver<g ref="char:EOLhyphen"/>tue considered by it self alone; only I say that we cannot serve God and our own Appetites at once.</p>
+            <p>To fare <hi>deliciously</hi> every day, remitting nothing of our wonted <hi>Satisfactions,</hi> argues but slight ap<g ref="char:EOLhyphen"/>prehensions or a dead faith of the last <hi>Judgment;</hi> and of that Account which every man must ren<g ref="char:EOLhyphen"/>der of all his thoughts, words and actions. You may observe the Prophet <hi>Daniels</hi> practice, <hi>Daniel</hi> 10. 2. <hi>In those days I</hi> Daniel <hi>was mourning three whole weeks; I ate no pleasant Bread, neither came Flesh nor Wine into my mouth; neither did I anoint my self at all, till three whole weeks were fulfilled:</hi> and this he did without any command that we read of.</p>
+            <pb n="23" facs="tcp:205924:12"/>
+            <p>To conclude all with a word or two. I have been hitherto exhorting to Abstinence and Con<g ref="char:EOLhyphen"/>fession of Sins. Give me leave also to mind you of <hi>Alms-deeds;</hi> for these must go together. True Charity will oblige you to remember not only the mendicant poor; but also those <hi>poor,</hi> whether Widows or Families that have lived in plenty and are ashamed to beg; and let your <hi>Charity</hi> in this be as secret as possible: and thank God that he has given you the opportunity and ability to do it.</p>
+            <p>For a <hi>Gentleman</hi> to be able to find Mony for his needless and impertinent Debauches, and none for the Relief of a poor Family, is an Objection that he can never answer at the last <hi>Judgment.</hi>
+            </p>
+            <p>To all this let us add a vigilance over our selves for the time to come; let us watch and pray that we fall not into the snare of the Devil when tempted by him. Let the time past of our lives suffice to have wrought the will of the Flesh.</p>
+            <p>There be two sorts of Sins against which our blessed Saviour commands us to watch, that the day of the Lord surprise us not; first Surfeiting and Drunkenness, that is, the pleasures of the Flesh. 2ly. The Cares of the World.</p>
+            <p>Of these grand enemies, which war against our
+<pb n="24" facs="tcp:205924:13"/> Soul, it concerns us to be apprehensive; and to pray to God diligently to deliver us from all the deceits of the Flesh, and from all the deceits of the World; that is, from all the flattering vain opinions of our wordly Interest or Dignity.</p>
+            <p>Blessed is the man who has the Grace and Wit to despise the fallacious and flattering enjoy<g ref="char:EOLhyphen"/>ments of the World; <hi>looking not at the things which are seen; but at the things which are not seen; for the things that are seen are temporal; but the things that are not seen are eternal.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
